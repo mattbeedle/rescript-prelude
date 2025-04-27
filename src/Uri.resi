@@ -1,1 +1,0 @@
-let encodeComponent: string => string
